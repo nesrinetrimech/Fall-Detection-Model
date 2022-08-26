@@ -1,2 +1,2 @@
 # Fall-Detection-Model
-A classification model to classify fall detection using accelerometer .
+A classification model for fall detection using accelerometer .
